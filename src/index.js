@@ -1,3 +1,4 @@
 import './main.css';
+import HashMap from './js/hashmap.js';
 
-console.log('alive');
+const map = new HashMap(16);
